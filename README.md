@@ -1,4 +1,4 @@
-Multi Packer by Shocker  
+## Multi Packer by Shocker  
 This project is currently closed source, only executable download is available. You can do that [here](https://github.com/Shocker/soft_multipacker_/releases)
 
 With Multi Packer you can create different types of packed stand-alone applications. Depdending on the packed file types, you can choose from 3 types of packing:
