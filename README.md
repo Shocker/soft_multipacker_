@@ -6,6 +6,14 @@ With Multi Packer you can create different types of packed stand-alone applicati
 - WebPage pack: If you have a webpage / website and you want to transport it in a compact way, this type of pack is the option you need to select. You can pack .HTM / .HTML files and select one index file [by clicking on the Set index file button] with which the executable shall start when the pack is launched. Ofcourse, you can also include pictures of any kind, or any other files. You can also choose a caption for your \"website\".
 - Picture Slideshow: If pictures are what you want to compact, then select this option. It create a slideshow of pictures/images. The created executable is fully customizable: background color, title, items displayed, animation type, etc...
 
+## Screenshots
+<img src="https://raw.githubusercontent.com/Shocker/soft_multipacker_/master/screenshots/main.png" width="200" />
+<img src="https://raw.githubusercontent.com/Shocker/soft_multipacker_/master/screenshots/application.png" width="200" />
+<img src="https://raw.githubusercontent.com/Shocker/soft_multipacker_/master/screenshots/pictures.png" width="200" />  
+<img src="https://raw.githubusercontent.com/Shocker/soft_multipacker_/master/screenshots/picture_result.png" width="200" />
+<img src="https://raw.githubusercontent.com/Shocker/soft_multipacker_/master/screenshots/webpage.png" width="200" />
+
+
 ## History
 
 v2.12:
