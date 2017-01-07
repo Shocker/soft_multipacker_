@@ -17,7 +17,7 @@ With Multi Packer you can create different types of packed stand-alone applicati
 ## History
 
 v2.12:
- - Added Sweedish language (Thanks to Patrick.Bertin)
+ - Added French language (Thanks to Patrick.Bertin)
 
 v2.11:
  - Added Sweedish language (Thanks to Lasseca)
